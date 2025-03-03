@@ -20,8 +20,7 @@
 ## 别踩白块儿
 通过easyx图形库制作的简易小游戏
 
-![Example](./img/example1.png)
-
+![Example](./image/sample1.png)
 
 
 ```
