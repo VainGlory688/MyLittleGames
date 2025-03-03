@@ -20,9 +20,14 @@
 ## 别踩白块儿
 通过easyx图形库制作的简易小游戏
 
-![Example](./image/sample1.png)
-
-
 ```
 #include<easyx.h>
 ```
+
+![Example](./image/sample1.png)
+
+- [功能实现]
+   - [计分]
+   - [游玩时间记录（秒）]
+   - [黑块的下移与随机位置]
+   - [点到非最后一排黑块游戏结束]
